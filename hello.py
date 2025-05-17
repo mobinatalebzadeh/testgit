@@ -1,1 +1,1 @@
-print("responsive file is ready!")
+print("responsive file is not ready!")
